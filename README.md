@@ -35,7 +35,7 @@ TECH STACK
 **Design & Styling:** Styled-Components, Responsive Design, React Toastify  
 **Other Skills:** REST APIs, WebRTC, Gemini AI  
 
-Let’s Connect
+Let’s Connect     
 Email: (mayankshugani3@gmail.com)   
 LinkedIn: (https://linkedin.com/in/mayankshugani)  
 Portfolio: (https://mayankshugani.netlify.app)  
