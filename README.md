@@ -36,7 +36,7 @@ TECH STACK
 **Other Skills:** REST APIs, WebRTC, Gemini AI  
 
 Let’s Connect
-Email: mayankshugani3@gmail.com
+Email: (mayankshugani3@gmail.com)   
 LinkedIn: (https://linkedin.com/in/mayankshugani)  
 Portfolio: (https://mayankshugani.netlify.app)  
 
